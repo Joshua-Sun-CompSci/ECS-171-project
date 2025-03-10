@@ -1,0 +1,64 @@
+,Sex,Age,Year,Major,Units,Academic_Hours,Academic_Satisfication,Academic_Stress,Position,Job_Club_Hours,Job_Club_Satisfaction,Job_Club_Stress,Sleep_Hours,Active_Level,Diet_Level,Socializing_Hours,Financial_Presssure,Overall_Stress,Anxiety_freq,Excitement_freq,Stress_freq,Tiredness_Fatigue_freq,Unmotived_freq,Meaningless_freq,Helpless_freq,Lonely_freq,Overwhelmed_freq
+0,Male,22,Senior,College of Engineering,16,31-40,7,8,0,0,7,8,8,6,8,0,4,6,1,1,2,1,2,2,1,1,1
+1,Male,21,Junior,College of Engineering,17,<10,4,6,0,0,1,4,6,3,2,6-10,3,8,3,2,3,3,2,1,1,1,3
+2,Male,21,Junior,College of Engineering,12,10-20,8,8,Club,1-5,9,6,9,9,9,6-10,10,8,1,2,2,3,1,1,1,0,2
+3,Prefer not to say,20,Senior,College of Engineering,12,21-30,8,5,Job,16-20,6,2,9,4,8,6-10,10,7,1,0,1,1,2,2,0,1,2
+4,Male,21,Junior,College of Engineering,17,41-50,4,8,Both,11-15,8,2,7,5,4,1-5,10,9,1,2,3,3,3,3,3,3,3
+5,Female,20,Junior,College of Engineering,14,31-40,9,7,0,0,3,1,8,5,5,1-5,3,5,2,2,2,2,1,1,1,1,2
+6,Female,21,Junior,College of Engineering,16,21-30,2,10,0,0,5,5,8,7,9,0,8,9,3,2,3,3,2,3,3,3,3
+7,Male,21,Junior,College of Engineering,12,21-30,9,7,Club,6-10,8,6,7,10,8,1-5,1,6,2,3,3,3,2,1,1,1,2
+8,Male,21,Junior,College of Engineering,12,10-20,7,7,Club,6-10,7,6,8,7,6,6-10,6,7,0,2,2,2,2,0,1,0,2
+9,Male,22,Senior,College of Letters and Science,12,21-30,7,8,0,0,2,2,8,6,6,1-5,4,7,2,1,3,3,2,2,2,2,2
+10,Female,22,Senior,College of Letters and Science,16,21-30,5,10,0,1-5,1,10,9,6,5,6-10,4,8,3,2,3,3,3,3,3,2,3
+11,Male,21,Senior,College of Engineering,17,21-30,10,4,Job,16-20,9,2,8,10,10,6-10,7,2,1,2,2,2,2,1,1,1,1
+12,Female,18,Freshman,College of Letters and Science,18,10-20,3,10,Club,1-5,8,3,7,3,5,0,7,9,3,2,3,3,3,3,3,3,3
+13,Female,21,Senior,College of Biological Sciences,8,21-30,8,8,Both,20+,9,8,6,9,8,6-10,1,7,3,2,3,2,1,1,1,1,2
+14,Prefer not to say,20,Junior,College of Letters and Science,17,31-40,6,7,Club,1-5,5,5,7,5,5,1-5,1,7,2,2,2,2,2,1,1,2,2
+15,Male,23,Senior,College of Letters and Science,12,21-30,6,7,Job,11-15,7,5,6,8,8,1-5,8,7,1,1,1,2,1,1,2,2,1
+16,Male,22,Senior,College of Letters and Science,12,<10,7,9,0,0,1,1,7,7,7,11-15,7,7,1,1,2,2,3,2,1,0,1
+17,Female,21,Senior,College of Letters and Science,18,10-20,6,9,Job,16-20,9,3,6,2,8,25-30,10,10,2,2,3,3,3,1,2,1,3
+18,Male,21,Junior,College of Letters and Science,12,21-30,9,4,Club,1-5,7,3,8,9,8,16-20,4,3,1,3,2,2,2,0,0,1,2
+19,Female,22,Senior,College of Letters and Science,12,10-20,2,10,Job,16-20,6,5,6,1,3,1-5,10,8,3,1,2,3,3,2,2,3,3
+20,Female,21,Senior,College of Engineering,13,41-50,3,8,Job,1-5,3,2,4,2,5,1-5,2,9,3,2,3,3,3,2,2,1,3
+21,Male,25,Senior,College of Letters and Science,16,>60,6,5,0,0,1,1,6,5,5,16-20,6,4,1,1,1,2,2,0,0,0,1
+22,Female,22,Senior,College of Biological Sciences,13,>60,5,8,Job,20+,4,9,8,4,5,6-10,7,8,3,2,3,3,2,3,2,3,3
+23,Male,20,Junior,College of Engineering,16,10-20,5,8,Both,16-20,6,6,7,9,9,1-5,6,7,3,3,3,3,3,3,3,3,3
+24,Male,20,Junior,College of Engineering,18,31-40,5,8,Club,1-5,3,1,6,2,4,1-5,5,8,1,1,3,3,2,2,2,1,3
+25,Female,21,Senior,College of Letters and Science,12,21-30,8,8,0,0,5,5,8,3,8,6-10,10,7,2,2,3,3,2,1,1,1,2
+26,Male,20,Junior,College of Biological Sciences,14,41-50,7,3,Both,20+,8,4,4,7,7,11-15,4,9,2,3,2,3,2,0,0,2,2
+27,Male,21,Junior,College of Engineering,16,10-20,8,10,Club,6-10,8,9,6,6,6,1-5,7,8,3,1,3,3,3,2,2,2,3
+28,Male,21,Junior,College of Biological Sciences,17,21-30,8,6,Job,6-10,8,4,7,10,10,6-10,5,5,1,3,2,2,1,0,0,0,2
+29,Female,21,Senior,College of Letters and Science,12,10-20,6,9,Job,6-10,8,3,7,2,7,6-10,6,7,3,2,3,2,1,1,1,2,2
+30,Female,22,Senior,College of Letters and Science,22,21-30,9,8,Both,6-10,10,5,8,8,7,11-15,4,7,1,3,3,2,1,1,0,1,2
+31,Female,21,Senior,College of Biological Sciences,16,>60,8,9,Job,6-10,8,8,8,5,7,6-10,7,8,3,3,3,3,2,1,1,0,2
+32,Female,20,Junior,College of Agricultural and Environmental Sciences,16,10-20,8,8,Job,6-10,5,3,8,4,5,1-5,2,7,2,2,3,3,2,1,1,1,2
+33,Male,21,Senior,College of Biological Sciences,14,31-40,5,10,Both,16-20,8,4,6,7,6,25-30,8,8,3,2,3,2,3,2,1,1,3
+34,Male,21,Senior,College of Biological Sciences,16,31-40,2,10,Both,6-10,8,4,7,6,6,16-20,9,9,2,2,3,3,1,0,0,1,3
+35,Female,21,Senior,College of Letters and Science,16,21-30,7,9,Job,11-15,6,7,7,3,1,1-5,7,7,3,2,2,3,3,3,3,1,2
+36,Female,21,Senior,College of Letters and Science,14,21-30,8,7,0,0,5,5,7,8,7,6-10,7,8,2,2,3,3,2,1,1,1,2
+37,Female,19,Sophomore,College of Letters and Science,16,21-30,3,9,0,0,2,1,4,2,2,1-5,4,3,1,3,2,1,2,1,0,0,0
+38,Female,21,Senior,College of Letters and Science,20,41-50,6,10,0,0,1,9,9,2,7,1-5,2,10,3,3,3,3,3,1,3,1,3
+39,Female,28,Graduate Student,College of Letters and Science,12,>60,7,8,Club,1-5,7,2,8,5,5,1-5,5,7,3,3,3,3,2,2,2,2,3
+40,Female,21,Senior,College of Biological Sciences,14,31-40,9,9,Both,11-15,9,6,7,5,5,11-15,6,9,3,2,3,3,2,1,1,2,3
+41,Female,20,Junior,College of Agricultural and Environmental Sciences,13,21-30,6,10,Job,20+,4,10,4,7,8,6-10,10,10,3,1,3,3,3,3,3,3,3
+42,Female,21,Senior,College of Letters and Science,16,31-40,8,10,Job,1-5,7,5,6,5,8,1-5,9,9,2,2,3,3,3,2,1,1,3
+43,Male,21,Senior,College of Letters and Science,12,10-20,5,7,Job,16-20,5,10,6,10,6,6-10,10,10,3,2,3,3,3,3,2,1,3
+44,Female,21,Junior,College of Agricultural and Environmental Sciences,12,21-30,7,5,Job,6-10,6,1,7,3,6,1-5,7,4,1,2,2,3,2,0,2,2,2
+45,Female,24,Senior,College of Letters and Science,12,21-30,7,7,Job,11-15,6,6,7,8,7,6-10,9,7,2,2,2,2,2,2,2,2,2
+46,Female,21,Senior,College of Letters and Science,16,10-20,7,10,Job,16-20,7,8,7,8,5,6-10,10,8,3,3,3,3,3,3,3,3,3
+47,Female,20,Junior,Double Major,12,<10,5,10,Club,6-10,9,8,5,5,5,6-10,5,10,3,2,3,3,3,3,3,3,3
+48,Female,21,Senior,College of Engineering,19,10-20,8,8,Club,1-5,6,5,9,7,5,1-5,5,8,3,2,3,3,3,3,3,3,3
+49,Female,21,Senior,College of Letters and Science,17,10-20,1,10,Both,16-20,3,10,8,2,6,6-10,10,10,3,2,3,3,3,3,3,3,3
+50,Female,21,Senior,College of Agricultural and Environmental Sciences,13,<10,8,7,Job,11-15,9,4,7,6,6,1-5,2,7,3,2,3,2,2,0,1,2,2
+51,Male,22,Senior,College of Letters and Science,13,10-20,7,3,Job,6-10,5,6,6,7,6,6-10,2,5,2,3,3,3,3,2,1,3,2
+52,Female,20,Junior,College of Letters and Science,16,21-30,7,9,Both,6-10,6,6,7,5,9,11-15,4,8,3,3,3,3,3,3,3,0,3
+53,Female,21,Senior,College of Biological Sciences,12,10-20,7,5,Job,6-10,10,1,6,3,6,11-15,5,8,2,1,2,3,3,3,1,2,2
+54,Female,22,Senior,College of Biological Sciences,12,<10,6,7,Job,6-10,8,4,7,6,4,1-5,2,7,2,2,3,2,2,1,1,1,2
+55,Male,22,Senior,Double Major,27,10-20,4,7,Club,1-5,6,5,7,5,6,6-10,7,7,2,2,2,3,3,3,1,0,1
+56,Female,22,Junior,College of Engineering,15,31-40,7,9,Both,1-5,7,4,7,7,7,1-5,5,9,3,2,3,3,2,2,2,2,3
+57,Female,21,Senior,College of Biological Sciences,12,10-20,6,3,Both,20+,8,3,4,7,5,6-10,3,5,2,2,2,3,1,1,1,2,1
+58,Male,22,Senior,College of Letters and Science,16,10-20,3,4,Club,1-5,4,4,8,8,4,1-5,4,6,2,2,2,1,1,2,2,2,3
+59,Female,21,Senior,College of Biological Sciences,22,10-20,5,5,0,0,9,2,6,5,4,0,5,5,2,1,2,3,2,0,1,2,2
+60,Male,31,Senior,College of Letters and Science,13,41-50,10,9,Job,11-15,10,4,7,1,4,16-20,10,10,3,3,3,3,3,3,2,1,3
+61,Male,19,Sophomore,College of Letters and Science,19,31-40,7,8,Both,16-20,8,6,5,8,5,6-10,6,9,3,2,3,3,3,1,2,3,2
+62,Male,20,Junior,College of Engineering,12,10-20,3,6,Club,6-10,9,3,6,6,5,6-10,2,6,2,2,3,3,3,2,1,2,3
